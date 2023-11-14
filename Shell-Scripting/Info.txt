@@ -1,0 +1,20 @@
+>>>>>>>>> SILICO.CORPORATION <<<<<<<<<
+
+	  [[ LIST OF CARS ]]
+	  
+Number: 1
+Car model: Koenigsegg
+Price: $21,500,000
+Code number: 958231
+
+Number: 2
+Car model: Pagani Huayra
+Price: $18,000,000
+Code number: 495120
+
+Number: 3
+Car model: Bugatti Veyron
+Price: $16,200,000
+Code number: 016582
+ 
+
